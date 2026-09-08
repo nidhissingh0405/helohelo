@@ -1,0 +1,14 @@
+body{
+    background-color :pink;
+    text-align :center;
+
+}
+
+h1 {
+    color:darkblue;
+}
+
+button{
+    padding :10px 20px;
+    font-size: 50px;
+}
